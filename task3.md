@@ -1,0 +1,3 @@
+The relationship between Faculty and Department is as inducation by the arrow pointing away from department towards faculty is that a department has a faculty, so a has-a relationshio is expressed.
+
+The relationship between a alarmcontroller and sensor as indicated by the line between the two and the 1 by AlarmController and the 1.. by Sensor is that an AlarmController (one singular object) is associated with 1.. (at least one, at most infinite) sensors. Vice versa, each sensor is associated with exactly 1 AlarmController.
