@@ -1,9 +1,11 @@
-Benefits of Client-Server Architecture:
+## Task 1: Client-Server Architecture
 
-A benefit of the client-server architecture is that it allows for a direct link between the client and server in the send that there is no middleman between the two. This directness 
+### Benefits of Client-Server Architecture
 
-Another benefit is that since everything is in a server, many clients can access and share documents / files with eachother.
+A benefit of client-server architecture is that it allows clients to communicate directly with a centralized server to make requests and receive data or services the are required. This makes it easier for clients to access the resources provided by the server.
 
-Potential Drawback(s) of Client-Server Architecture:
+Another benefit is that resources can be stored and managed centrally on the server, allowing multiple clients to access and share documents or files with each other.
 
-A potential drawback of a client-server architecture is that because it is a direct server to client, if the server doesn't work there is nothing that the client can do until the server is back up. This could happen for example if there are too many requests to the server, this could slow down information that is sent from the server to a client and decrease productivity.
+### Potential Drawback(s) of Client-Server Architecture
+
+A potential drawback of client-server architecture is that if the server becomes unavailable, clients may not be able to access the services or information they need until the server is restored. For example, if the server receives too many requests at once, it could become overloaded, slowing down the information sent to clients and decreasing productivity.
